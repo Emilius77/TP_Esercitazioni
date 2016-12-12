@@ -27,9 +27,8 @@ public class ElencoOfferte {
         String msg="";
         //utilizzo di ciclo for che cicla collezioni di oggetti ad es arraylist
         for (Offerta o : elencoOfferte) {
-            msg+=o.getCognome() + " offre " + o.getValore() + " per " +o.getNomeOggetto() +"\n";
+            msg+= o.getCognome() + " offre " + o.getValore() + " per " +o.getNomeOggetto() +"\n";
         }
- 
     return msg;
     }
 
@@ -37,6 +36,8 @@ public class ElencoOfferte {
     public String aggiudicaOggetto(String nomeOggetto){
     String msg="";
         //fare ciclo per trovare chi si aggiudice per quanto l'oggetto passato coe parametro
+       
+ 
     return msg;
     }
 }

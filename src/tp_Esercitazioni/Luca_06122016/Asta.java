@@ -36,7 +36,7 @@ public class Asta {
         
         
         
-        //imbecille prima do farli parlare pèreparalo schedario imbbeeee
+        //imbecille prima di farli parlare prepara lo schedario imbbeeee
         ElencoOfferte listOff=new ElencoOfferte();
         
         Persona p1 =new Persona();
